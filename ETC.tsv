@@ -2291,7 +2291,7 @@ ETC_20150317_002290	The movement speed has been decreased as step on the cactusv
 ETC_20150317_002291	Shocked for a while after stepping on the contaminated place!
 ETC_20150317_002292	Help me! Please let me out! Kill them!
 ETC_20150317_002293	There is no response. Please re-try.
-ETC_20150317_002294	The monster appeared from flower's root.
+ETC_20150317_002294	The monster appeared from the flower's root.
 ETC_20150317_002295	Wounded as the reed leaf to be chafed!
 ETC_20150317_002296	Couldn't catch anything!
 ETC_20150317_002297	Took the flag of sanctum!
@@ -2335,7 +2335,7 @@ ETC_20150317_002334	Obtained the moist moss from Kowak!{nl}Spray to control a bl
 ETC_20150317_002335	Spraying the moss!
 ETC_20150317_002336	The blaze is going to be managed after spraying.
 ETC_20150317_002337	The blaze is done, Please destroy the transformation tree root crystal.
-ETC_20150317_002338	All monster entered into the box.
+ETC_20150317_002338	All monsters entered into the box.
 ETC_20150317_002339	Inputted monsters into the treasure box.
 ETC_20150317_002340	You must defeat them to collect the monsters around treasure box!
 ETC_20150317_002341	Due to no have the core of tree root crystal, we can't do it anything.{nl}Find out the core of crystal from monster nearby and destroy to input.
@@ -2354,14 +2354,14 @@ ETC_20150317_002353	You need to be treated by attracting monsters in the vicinit
 ETC_20150317_002354	Removed by robbing the ground which have the monster summon circles.
 ETC_20150317_002355	Physical fitness of the goddess image is reduced to less than 60%! Please be discharged hit the {nl} vine!
 ETC_20150317_002356	Physical fitness of the Goddess image is reduced to less than 20%! Please be discharged hit the {nl} vine!
-ETC_20150317_002357	You strength of Goddess image is reduced to 10% or less! Please be discharged hit the {nl} vine!
+ETC_20150317_002357	The strength of Goddess image is reduced to 10% or less! Please be discharged hit the {nl} vine!
 ETC_20150317_002358	The flowers withered and died.
 ETC_20150317_002359	Re-obtaining the picture
 ETC_20150317_002360	Obtained the picture again
 ETC_20150317_002361	Throwing the picture
-ETC_20150317_002362	Thrown out the picture to the tombstone
+ETC_20150317_002362	Threw the picture to the tombstone
 ETC_20150317_002363	I am taking out a handkerchief once again
-ETC_20150317_002364	Re-take out a handkerchief again
+ETC_20150317_002364	Take out a handkerchief again
 ETC_20150317_002365	Among surrounding the handkerchief
 ETC_20150317_002366	Put a handkerchief into the box. We can do it again.
 ETC_20150317_002367	There is no a key.{nl}Collect the keys from the monsters.
@@ -2450,7 +2450,7 @@ ETC_20150317_002449	Device seems to be open
 ETC_20150317_002450	Use a key.
 ETC_20150317_002451	Just leave it
 ETC_20150317_002452	Open the device to use the key.
-ETC_20150317_002453	I know the place what you want to find.
+ETC_20150317_002453	I know the place that you want to find.
 ETC_20150317_002454	I know the place what the stuff hidden by human.
 ETC_20150317_002455	It can be a chance to impress Naktis
 ETC_20150317_002456	We have to hurry to find.
@@ -2563,7 +2563,7 @@ ETC_20150317_002562	Monster exploded
 ETC_20150317_002563	Mise to prove that you are the person clearly
 ETC_20150317_002564	Door is opened. Please won the revelation
 ETC_20150317_002565	And about in the paint of the meat
-ETC_20150317_002566	Need more meats
+ETC_20150317_002566	Need more meat
 ETC_20150317_002567	Feel hunger and have a headache
 ETC_20150317_002568	I'm full
 ETC_20150317_002569	Giving meat to pilgrims
@@ -2657,7 +2657,7 @@ ETC_20150317_002656	Reconnection wait time
 ETC_20150317_002657	Party Quest is possible.
 ETC_20150317_002658	Only the party leader can do this.
 ETC_20150317_002659	All members must come to {MapName} to begin the Quest.
-ETC_20150317_002660	Not all members are not together.
+ETC_20150317_002660	Not all members are together.
 ETC_20150317_002661	Members of party quest have been met. The quest will be available after a certain time.
 ETC_20150317_002662	has left.
 ETC_20150317_002663	Normal
@@ -2701,7 +2701,7 @@ ETC_20150317_002700	Quantity
 ETC_20150317_002701	Your selling price must be at least 0 Silver.
 ETC_20150317_002702	Your selling quantity must be higher than 0.
 ETC_20150317_002703	Your item has been successfully added on the Market.
-ETC_20150317_002704	You have successfully purchased an item from the Market. {nl} Please check that you've received the item.
+ETC_20150317_002704	You have successfully purchased an item from the Market. {nl} Please check that you have received the item.
 ETC_20150317_002705	There are too many search results. Use more detailed search queries to narrow down your search.
 ETC_20150317_002706	Are you sure you want to cancel the item registration?
 ETC_20150317_002707	Your item has been successfully canceled from the Market. {nl} Please check that you've received the item.
